@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">first-app</string>
+    <string name="zipcode_entry_error">Zipcode entry error</string>
 </resources>
